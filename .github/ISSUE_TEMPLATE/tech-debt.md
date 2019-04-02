@@ -1,6 +1,6 @@
 ---
 name: Tech debt
-about: Tell us what you shortcut you took
+about: Tell us what shortcut you took
 title: "[DEBT]"
 labels: techdebt, triage
 assignees: ''
@@ -11,6 +11,7 @@ assignees: ''
 - Summary: *Please include a one-sentence summary*
 - Contacts: *Who needs to be in the loop on this?*
 - Priority: *Is this bug blocking you? What is its relative priority? Is there a hard deadline?*
+- Origin: *When did this originate? How long has it been a problem?*
 
 **Problem**
 Please describe the problem with the current software. Include when you expect this to break/harm our software.

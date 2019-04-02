@@ -21,6 +21,9 @@ Please describe your use cases using plain english examples.
 **Solutions and alternatives**
 Please describe any possible solutions or alternatives that were already investigated?
 
+**Implementation notes**
+Optional notes about how this should be implemented, including suggested APIs or example calls or classes.
+
 **Links**
 Please include relevant links that give context to your feature.
 - *Slack discussions*
