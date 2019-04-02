@@ -1,5 +1,5 @@
 ---
-name: Tech Debt
+name: Tech debt
 about: Tell us what you shortcut you took
 title: "[DEBT]"
 labels: techdebt, triage
