@@ -3,7 +3,7 @@ name: Bug report
 about: Tell us about your problems
 title: "[BUG]"
 labels: bug, triage
-assignees: shakefu
+assignees: ''
 
 ---
 
