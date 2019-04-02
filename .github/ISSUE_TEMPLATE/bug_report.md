@@ -2,7 +2,7 @@
 name: Bug report
 about: Tell us about your problems
 title: "[BUG]"
-labels: bug
+labels: bug, triage
 assignees: shakefu
 
 ---
