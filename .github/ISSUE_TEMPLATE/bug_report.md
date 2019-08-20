@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Tell us about your problems
+about: Use this to report a bug
 title: "[BUG]"
 labels: bug, triage
 assignees: ''
