@@ -5,5 +5,6 @@
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my changes
 - [ ] All code passes linting (i.e. flake8)
+- [ ] New external dependencies have been audited as secure and reasoning for inclusion is listed in PR description
 - [ ] Tests are added or adjusted (if necessary)
-- [ ] New external dependencies are listed with reasoning for inclusion
+
