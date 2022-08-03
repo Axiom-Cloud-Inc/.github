@@ -1,5 +1,4 @@
-## This repo is for configuraing Axiom-github wide policies.
-This includes where we configure the overall pull request template.
+## Welcome to the Axiom Cloud Git Hub repository.
 
 <!--
 
