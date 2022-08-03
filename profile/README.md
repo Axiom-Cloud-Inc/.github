@@ -1,5 +1,4 @@
-## This repo is for configuraing Axiom-github wide policies.
-Welcome to the Axiom Cloud GitHub repository
+## Welcome to the Axiom Cloud GitHub repository
 
 <!--
 
